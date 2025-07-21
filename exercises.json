@@ -1,0 +1,196 @@
+{
+	"exercises" : [
+		{
+			"name" : "Barbell Bench Press",
+			"reps" : [4, 10],
+			"sets" : [2, 4],
+			"weightInc" : 2.5
+		},
+		{
+			"name" : "Barbell Overhead Press",
+			"reps" : [4, 8],
+			"sets" : [2, 4],
+			"weightInc" : 2.5
+		},
+		{
+			"name" : "EZ Bar Curl",
+			"reps" : [6, 12],
+			"sets" : [2, 4],
+			"weightInc" : 2.5
+		},
+		{
+			"name" : "EZ Bar Preacher Curl",
+			"reps" : [6, 12],
+			"sets" : [2, 4],
+			"weightInc" : 2.5
+		},
+		{
+			"name" : "Skull-Crusher",
+			"reps" : [8, 12],
+			"sets" : [2, 4],
+			"weightInc" : 2.5
+		},
+		{
+			"name" : "Dumbbell Row",
+			"reps" : [6, 12],
+			"sets" : [2, 4],
+			"weightInc" : 2.5
+		},
+		{
+			"name" : "Barbell Row",
+			"reps" : [4, 10],
+			"sets" : [2, 4],
+			"weightInc" : 2.5
+		},
+		{
+			"name" : "Chin-Up",
+			"reps" : [1, 8],
+			"sets" : [1, 4],
+			"weightInc" : 2.5
+		},
+		{
+			"name" : "Pull-Up",
+			"reps" : [1, 8],
+			"sets" : [1, 4],
+			"weightInc" : 2.5
+		},
+		{
+			"name" : "Dumbbell Lateral Raise",
+			"reps" : [10, 15],
+			"sets" : [3, 4],
+			"weightInc" : 2.5
+		},
+		{
+			"name" : "Cable Lateral Raise",
+			"reps" : [10, 15],
+			"sets" : [3, 4],
+			"weightInc" : 2.5
+		},
+		{
+			"name" : "Barbell Shrug",
+			"reps" : [6, 12],
+			"sets" : [2, 4],
+			"weightInc" : 2.5
+		},
+		{
+			"name" : "Barbell Power Shrug",
+			"reps" : [4, 10],
+			"sets" : [1, 4],
+			"weightInc" : 2.5
+		},
+		{
+			"name" : "Push-Up",
+			"reps" : [6, 15],
+			"sets" : [2, 4],
+			"weightInc" : 2.5
+		},
+		{
+			"name" : "Diamond Push-Up",
+			"reps" : [6, 15],
+			"sets" : [2, 4],
+			"weightInc" : 2.5
+		},
+		{
+			"name" : "Knee Raise",
+			"reps" : [6, 15],
+			"sets" : [2, 4],
+			"weightInc" : 2.5
+		},
+		{
+			"name" : "Leg Raise",
+			"reps" : [6, 15],
+			"sets" : [2, 4],
+			"weightInc" : 2.5
+		},
+		{
+			"name" : "Dumbbell Calf Raise",
+			"reps" : [10, 15],
+			"sets" : [3, 4],
+			"weightInc" : 2.5
+		},
+		{
+			"name" : "Barbell Squat",
+			"reps" : [6, 12],
+			"sets" : [2, 4],
+			"weightInc" : 2.5
+		},
+		{
+			"name" : "Barbell Platz Squat",
+			"reps" : [6, 12],
+			"sets" : [2, 4],
+			"weightInc" : 2.5
+		},
+		{
+			"name" : "Barbell Platz Squat",
+			"reps" : [6, 12],
+			"sets" : [2, 4],
+			"weightInc" : 2.5
+		},
+		{
+			"name" : "Deadlift",
+			"reps" : [4, 8],
+			"sets" : [1, 4],
+			"weightInc" : 2.5
+		},
+		{
+			"name" : "Romanian Deadlift",
+			"reps" : [6, 12],
+			"sets" : [2, 4],
+			"weightInc" : 2.5
+		},
+		{
+			"name" : "Back Hyperextension",
+			"reps" : [6, 12],
+			"sets" : [2, 4],
+			"weightInc" : 2.5
+		},
+		{
+			"name" : "Flat Dumbbell Fly",
+			"reps" : [6, 12],
+			"sets" : [2, 4],
+			"weightInc" : 2.5
+		},
+		{
+			"name" : "French Press",
+			"reps" : [6, 12],
+			"sets" : [2, 4],
+			"weightInc" : 2.5
+		},
+		{
+			"name" : "Wrist Pronation",
+			"reps" : [8, 15],
+			"sets" : [2, 4],
+			"weightInc" : 2.5
+		},
+		{
+			"name" : "Wrist Curl",
+			"reps" : [8, 15],
+			"sets" : [2, 4],
+			"weightInc" : 2.5
+		},
+		{
+			"name" : "Hammer Curl",
+			"reps" : [6, 12],
+			"sets" : [2, 4],
+			"weightInc" : 2.5
+		},
+		{
+			"name" : "Rear Delt Dumbbell Raise",
+			"reps" : [6, 12],
+			"sets" : [2, 4],
+			"weightInc" : 2.5
+		},
+		{
+			"name" : "Cable Overhead Triceps Extension",
+			"reps" : [6, 12],
+			"sets" : [2, 4],
+			"weightInc" : 2.5
+		},
+		{
+			"name" : "Cable Face Pull",
+			"reps" : [8, 15],
+			"sets" : [2, 4],
+			"weightInc" : 2.5
+		}
+	]
+}

@@ -1,0 +1,1 @@
+cmake --build %1 -j 8
