@@ -1,0 +1,5 @@
+add_executable(gymvol gymvol.cpp)
+target_link_libraries(gymvol simdjson)
+if(WIN32)
+	target_compile_definitions(gymvol PRIVATE _CRT_SECURE_NO_WARNINGS)
+endif()

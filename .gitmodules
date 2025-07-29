@@ -1,3 +1,4 @@
-[submodule "external/json"]
-	path = external/json
-	url = https://github.com/nlohmann/json.git
+[submodule "external/simdjson"]
+	path = external/simdjson
+	url = https://github.com/simdjson/simdjson.git
+	shallow = true

@@ -1,1 +1,2 @@
-add_subdirectory(json)
+#simdjson
+add_subdirectory(simdjson EXCLUDE_FROM_ALL)
