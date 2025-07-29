@@ -1,0 +1,54 @@
+{
+	"workouts" : [
+		[
+			"Barbell Overhead Press",
+			"EZ Bar Curl",
+			"Skull-Crusher",
+			"Barbell Row",
+			"Chin-Up",
+			"Dumbbell Lateral Raise",
+			"Barbell Shrug",
+			"Diamond Push-Up",
+			"Knee Raise",
+			"Dumbbell Calf Raise"
+		],
+		[
+			"Barbell Squat",
+			"Romanian Deadlift",
+			"Pull-Up",
+			"Leg Raise",
+			"Dumbbell Calf Raise"
+		],
+		[
+			"Barbell Bench Press",
+			"Flat Dumbbell Fly",
+			"French Press",
+			"Chin-Up",
+			"Knee Raise",
+			"Wrist Pronation",
+			"Hammer Curl",
+			"Rear Delt Dumbbell Raise",
+			"Cable Overhead Triceps Extension",
+			"Dumbbell Calf Raise"
+		],
+		[
+			"Deadlift",
+			"Barbell Platz Squat",
+			"Barbell Power Shrug",
+			"Pull-Up",
+			"Leg Raise"
+		],
+		[
+			"Hammer Curl",
+			"Barbell Overhead Press",
+			"French Press",
+			"Barbell Row",
+			"EZ Bar Preacher Curl",
+			"Cable Lateral Raise",
+			"Cable Face Pull",
+			"Dumbbell Row",
+			"Dumbbell Calf Raise",
+			"Wrist Pronation"
+		]
+	]
+}
